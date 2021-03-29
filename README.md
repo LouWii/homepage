@@ -1,6 +1,6 @@
 # Louis' Homepage
 
-Homepage for [louis.dekeister.com](https://louis.dekeister.com)
+Homepage for [louis.dekeister.com](https://louis.dekeister.com) - Used to host a portfolio that was way out of date and over complicated.
 
 ## Resources
 

@@ -41,6 +41,7 @@ dd {
 /* Set core body defaults */
 body {
   min-height: 100vh;
+  padding: 1rem;
   font-family: 'Open Sans', sans-serif;
   font-size: 1.2rem;
   text-rendering: optimizeSpeed;
